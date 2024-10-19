@@ -21,7 +21,6 @@ div {
         height: auto;  
         border: 5px solid white;
         margin-bottom: 30px;
-        
         @media (max-width: 350px) {
             margin-bottom: 20px;
         }
